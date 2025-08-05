@@ -1,0 +1,11 @@
+The Student Portal Demo is a web application designed to provide students with a centralized platform to access their academic information, resources, and services.
+
+Features
+- User authentication and authorization
+- Student profile management
+- Course enrollment and management
+- Grade tracking and reporting
+- Resource sharing and collaboration
+
+Goals
+The goal of this project is to create a user-friendly and efficient platform for students to manage their academic life.
